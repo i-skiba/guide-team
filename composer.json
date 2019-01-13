@@ -1,0 +1,13 @@
+{
+	"name": "yii2team/guide-team",
+	"type": "guide",
+	"keywords": ["guide","team"],
+	"license": "MIT",
+	"authors": [
+		{
+			"name": "Yamshikov Vitaliy",
+			"email": "theyamshikov@yandex.ru"
+		}
+	],
+	"minimum-stability": "dev"
+}
