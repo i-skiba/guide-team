@@ -46,7 +46,7 @@
 В `env-local` объявите пакеты так:
 
 ```php
-use yii2lab\extension\package\helpers\PackageHelper;
+use yii2rails\extension\package\helpers\PackageHelper;
 
 return [
 	// ...
@@ -61,7 +61,7 @@ return [
 Либо выполнить команду:
 
 ```php
-use yii2lab\extension\package\helpers\PackageHelper;
+use yii2rails\extension\package\helpers\PackageHelper;
 
 PackageHelper::forge('yii2game', 'engine');
 ```
