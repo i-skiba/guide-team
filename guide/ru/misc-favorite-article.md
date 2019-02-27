@@ -61,6 +61,7 @@
 * [Основы CQRS](https://habrahabr.ru/company/simbirsoft/blog/329970/)
 * [Признаки проблемного дизайна](https://habrahabr.ru/post/331732/)
 * [Прочитайте код своего продукта. Весь](https://habrahabr.ru/company/infopulse/blog/333488/)
+* [Где наша бизнес-логика, сынок?](https://habr.com/ru/post/65432/)
 
 ## Domain Driven Design
 
