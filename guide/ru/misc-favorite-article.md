@@ -93,6 +93,7 @@
 * [Пособие по webpack](https://habr.com/post/309306/)
 * [Composer: Шпаргалка команд](https://phpprofi.ru/blogs/post/52)
 * [Регулярные выражения для валидации распространенных видов данных](https://habr.com/post/123845)
+* [Ещё раз про семь основных методологий разработки](https://habr.com/ru/company/edison/blog/269789/)
 
 ## VueJS
 
