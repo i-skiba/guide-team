@@ -33,6 +33,7 @@
 * [Yii2: Современный стиль PHP кода](https://nix-tips.ru/yii2-sovremennyj-stil-php-koda.html)
 * [Несколько полезных приемов для разработки на Yii 2](https://habrahabr.ru/post/303406/)
 * [Yii2 ActiveRecord шпаргалка по составлению запросов](https://phpstack.ru/php/yii2-activerecord-shpargalka-po-sostavleniyu-zaprosov.html)
+* [CODERIUS](https://coderius.biz.ua/)
 
 ## REST API
 
