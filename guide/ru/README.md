@@ -28,6 +28,7 @@
 ## Разное
 
 * [Правила GIT](misc-git.md)
+* [Контракты для отдела разработки](misc-dev-contract.md)
 * [Процесс разработки](misc-develop.md)
 * [Термины](misc-terms.md)
 * [Интересные статьи](misc-favorite-article.md)
