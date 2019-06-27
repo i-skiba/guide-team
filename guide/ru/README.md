@@ -6,6 +6,7 @@
 * [Правила GIT](misc-git.md)
 * [Domain Driven Design](https://github.com/yii2rails/yii2-domain/blob/master/guide/ru/README.md)
 * [REST API](https://github.com/phpbundle/rest/blob/master/guide/ru/README.md)
+* [Импорт коллекции в постман](https://github.com/yii2tool/yii2-restclient/blob/master/guide/ru/api-postman.md)
 
 ## Код
 
