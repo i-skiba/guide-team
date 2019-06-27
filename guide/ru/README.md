@@ -1,6 +1,12 @@
 Командная разработка
 =============================
 
+## Введение в командную разработку
+
+* [Правила GIT](misc-git.md)
+* [Domain Driven Design](https://github.com/yii2rails/yii2-domain/blob/master/guide/ru/README.md)
+* [REST API](https://github.com/phpbundle/rest/blob/master/guide/ru/README.md)
+
 ## Код
 
 * [Стиль кода](code-style.md)
@@ -27,7 +33,6 @@
 
 ## Разное
 
-* [Правила GIT](misc-git.md)
 * [Контракты для отдела разработки](misc-dev-contract.md)
 * [Процесс разработки](misc-develop.md)
 * [Термины](misc-terms.md)
