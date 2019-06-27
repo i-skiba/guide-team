@@ -70,3 +70,7 @@ PackageHelper::forge('yii2game', 'engine');
  * клон (если нет)
  * прописывается алиас для автозагрузки
  * добавляется в composer.json
+
+## Генерация переводов
+
+	php yii message/extract
