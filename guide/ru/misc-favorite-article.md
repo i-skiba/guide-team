@@ -75,6 +75,10 @@
 * [Николай Гребнев, Domain Driven Design в условиях разработки распределенных приложений ](https://www.youtube.com/watch?v=JVJV76uVKXo&list=PL0OVFXlocWuKQd7kPGR1cGecDYI-J1ahn)
 * [Yii2 — структура большого проекта](https://www.youtube.com/watch?v=uj6inHmDmAY)
 
+## Безопасность
+
+* [Руководство по шифрованию данных на PHP](https://habr.com/ru/post/257439/)
+
 ## Разное
 
 * [Pull request'ы на GitHub или Как мне внести изменения в чужой проект](https://habrahabr.ru/post/125999/)
